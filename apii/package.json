@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "mongoose": "^6.1.1",
+    "multer": "^1.4.2",
+    "nodemon": "^2.0.16",
+    "request": "^2.88.2"
+  },
+  "name": "api",
+  "version": "1.0.0",
+  "description": "backend for gym site",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Obinna Njoku",
+  "license": "ISC"
+}
